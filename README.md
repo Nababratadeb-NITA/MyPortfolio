@@ -1,6 +1,6 @@
 <h2 align="center">
   Portfolio Website<br/>
-  <a href="http://soumya-jit.tech/" target="_blank">nababrata.nft</a>
+  <a href="https://my-portfolio-rho-lilac.vercel.app/" target="_blank">nababrata.nft</a>
 </h2>
 <div align="center">
 </div>
@@ -13,13 +13,12 @@ this project is inspired by souyajit sir i whould link to thank you very much [S
 
 ## Built With
 
-My personal portfolio <a href="http://soumya-jit.tech/" target="_blank">soumyajit.tech</a> which features some of my github projects as well as my resume and technical skills.<br/>
+My personal portfolio <a href="https://my-portfolio-rho-lilac.vercel.app/" target="_blank">Nababrata.nft</a> which features some of my github projects as well as my resume and technical skills.<br/>
 
 This project was built using these technologies.
 
 - React.js
-- Node.js
-- Express.js
+- Bootstrap
 - CSS3
 - VsCode
 - Vercel
