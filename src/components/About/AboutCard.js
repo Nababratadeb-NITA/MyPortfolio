@@ -10,8 +10,8 @@ function AboutCard() {
           <p style={{ textAlign: "justify" }}>
             Hi Everyone, I am <span className="purple">Nababrata Deb </span>
             from <span className="purple"> Agartala, India.</span>
-            <br />I am a undergraduate B.Tech student pursuing bechelors
-             degree in Electrical Engineering in NIT Agartala.
+            <br />I am an undergraduate student pursuing bechelors
+             degree in Electrical Engineering at NIT Agartala.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
