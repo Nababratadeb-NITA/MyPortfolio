@@ -7,7 +7,7 @@
 
 <br/>
 
-## TL;DR
+## WELCOME
 
 this project is inspired by souyajit sir i whould link to thank you very much [Soumyajit4419](https://github.com/soumyajit4419/Portfolio). Thanks!
 
