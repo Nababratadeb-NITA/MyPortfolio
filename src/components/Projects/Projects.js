@@ -4,6 +4,7 @@ import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import chatify from "../../Assets/Projects/project1.png";
 import bitsOfCode from "../../Assets/Projects/project2.png";
+import reel from "../../Assets/Projects/project3.jpeg";
 
 function Projects() {
   return (
@@ -32,8 +33,18 @@ function Projects() {
               imgPath={bitsOfCode}
               isBlog={false}
               title= "Illuminate E-Cell"
-              description="Its a website which made with mordern technology for E-Cell club of our collage."
+              description="Modern website which made with mordern technology for E-Cell club of our collage."
               link="https://github.com/nababrata12/E-Cell"
+            />
+          </Col>
+
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={reel}
+              isBlog={false}
+              title= "Reel Downloader"
+              description="Modern mobile app which made with React-Native for downloading  the tranding reels on instagram."
+              link="https://github.com/nababrata12/Reel-saver"
             />
           </Col>
 
